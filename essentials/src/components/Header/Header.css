@@ -1,0 +1,17 @@
+header {
+  text-align: center;
+}
+header #logo {
+  width: 280px;
+}
+header h1 {
+  font-size: 4em;
+  margin-top: -50px;
+  font-weight: bold;
+  color: #797bff;
+}
+header p {
+  font-size: 1.3em;
+  color: #8662ae;
+  margin-top: -20px;
+}
